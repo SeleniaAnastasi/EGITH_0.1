@@ -6,7 +6,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://www.semanticweb.org/intel/ontologies/2020/6/Gendered_OntoComedy2021">
-    <Prefix name="" IRI="http://www.semanticweb.org/intel/ontologies/2020/6/Gendered_OntoComedy2021"/>
+    <Prefix name="genont" IRI="http://www.semanticweb.org/intel/ontologies/2020/6/Gendered_OntoComedy2021"/>
     <Prefix name="dc" IRI="http://purl.org/dc/terms/"/>
     <Prefix name="oa" IRI="http://www.w3.org/ns/oa/"/>
     <Prefix name="dbo" IRI="http://dbpedia.org/ontology/"/>
